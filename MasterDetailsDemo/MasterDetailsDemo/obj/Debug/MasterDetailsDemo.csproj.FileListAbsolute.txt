@@ -1,0 +1,166 @@
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\MasterDetailsDemo.dll.config
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\MasterDetailsDemo.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\MasterDetailsDemo.pdb
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\csc.exe
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\csc.exe.config
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\csc.rsp
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\csi.exe
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\csi.exe.config
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\csi.rsp
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.AppContext.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Console.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Net.Http.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\vbc.exe
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\vbc.exe.config
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\vbc.rsp
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\Antlr3.Runtime.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\Newtonsoft.Json.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Helpers.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Mvc.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Optimization.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Razor.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\WebGrease.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.xml
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Helpers.xml
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Mvc.xml
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Optimization.xml
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Razor.xml
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.xml
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\Newtonsoft.Json.xml
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\Antlr3.Runtime.pdb
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.csproj.AssemblyReference.cache
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.csproj.CoreCompileInputs.cache
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.csproj.CopyComplete
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.dll
+C:\Users\WSPC1\source\repos\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.pdb
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\MasterDetailsDemo.dll.config
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\MasterDetailsDemo.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\MasterDetailsDemo.pdb
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\csc.exe
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\csc.exe.config
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\csc.rsp
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\csi.exe
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\csi.exe.config
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\csi.rsp
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.AppContext.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Console.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.IO.Compression.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Net.Http.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Net.Sockets.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.ValueTuple.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\vbc.exe
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\vbc.exe.config
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\vbc.rsp
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\VBCSCompiler.exe
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\Antlr3.Runtime.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.SqlServer.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\Newtonsoft.Json.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Helpers.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Mvc.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Optimization.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Razor.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Razor.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\WebGrease.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.xml
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.SqlServer.xml
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Helpers.xml
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Mvc.xml
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Optimization.xml
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Razor.xml
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.xml
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Razor.xml
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\Newtonsoft.Json.xml
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\Antlr3.Runtime.pdb
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.csproj.AssemblyReference.cache
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.csproj.CoreCompileInputs.cache
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.csproj.CopyComplete
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.dll
+C:\Projects\.Net Projects\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.pdb
